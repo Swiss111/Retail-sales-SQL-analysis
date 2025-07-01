@@ -84,3 +84,10 @@ FROM retail_sales
 WHERE EXTRACT(YEAR FROM date) IN (2023, 2024)
 GROUP BY year
 ORDER BY year;
+
+-- TOTAL CUSTOMER BY GENDER FOR EACH PRODUCT CATEGORY 
+SELECT gender, product_category, COUNT(distinct customer_id) AS total_customers
+FROM retail_sales
+WHERE gender IN ('Male', 'Female')
+AND product_category IN ('Clothing', 'Electronics', 'Beauty')
+GROUP BY gender, product_category;
