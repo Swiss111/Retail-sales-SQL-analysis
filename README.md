@@ -13,7 +13,7 @@ This project contains SQL queries for analyzing a retail sales dataset using Pos
 
 Files Included
 - `queries.sql` – All SQL queries grouped by business questions
-- `questions.md` – Business questions for data analysis
+- [`questions.md`](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/3afa672c4924f073fe53d564fc318544d3ed6b51/questions.md) – Business questions for data analysis
 - `retail_sales.csv` 
 
 ---
