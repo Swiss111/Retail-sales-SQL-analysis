@@ -21,7 +21,7 @@ Files Included
 Technologies Used
 - PostgreSQL
 - SQL (pgAdmin 4)
-- CSV files
+- CSV files from [kaggle](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 
 
 Recommendation
