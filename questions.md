@@ -35,6 +35,8 @@
 11. **Total amount each year?**  
     This show total yearly sales to understand our overall performance.
 
+12. **Total customer by gender for each product category.
+
 ---
 
 ## 🧠 Insights, Queries & Data
