@@ -41,4 +41,4 @@
 
 ## 🧠 Insights, Queries & Data
 
-All the answers come from analyzing the retail sales data using SQL. We run smart questions on the database to get these insights, and you can find the exact queries in the `queries.sql` file.
+All the answers come from analyzing the retail sales data using SQL. We run smart questions on the database to get these insights, and you can find the exact queries in the [`queries.sql`](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/271eb9300b614891e19f001b172044eaef30c1b6/quaries.sql) file.
