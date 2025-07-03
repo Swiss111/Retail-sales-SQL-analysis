@@ -20,7 +20,7 @@
 
 5. **How much money did male and female customers spend?**  
     how much each gender is spending overall.
-   [VIEW IMAGE]()
+   [VIEW IMAGE](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/4b6bb71ddce6d657aa7a25dbee24e0084f721027/total%20amount%20by%20gender.png)
 
 6. **How many people bought from each product category?**  
    This helps us see which types of products are most popular with customers.
