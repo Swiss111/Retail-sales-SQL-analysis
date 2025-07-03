@@ -4,7 +4,7 @@
 
 1. **How many customers do we have?**  
    This helps us know how many unique people have shopped with us.
-   [VIEW IMAGE]()
+   [VIEW IMAGE](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/5e183071d5ddc1040a7bf0fb3837a9508ff5ecb7/y%20vs%20tc.png)
 
 2. **How many of them are male or female?**  
    This shows the gender breakdown of our customers — are more men or women shopping with us?
