@@ -38,7 +38,7 @@
    [VIEW IMAGE](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/f127444087b2ea8b86655d6c3b0d6727853e137a/total%20amount%20per%20age.png)
 10. **How much of each product type are we selling, and how much do they bring in?**  
     This tells us both the number of items sold and the money made from each product category.
-   [VIEW IMAGE]()
+   [VIEW IMAGE](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/29be27652b10e557f7be0486b3fa90b686e852aa/product%20type%20vs%20order%20vs%20amount.png)
 11. **Total amount each year?**  
     This show total yearly sales to understand our overall performance.
    [VIEW IMAGE]()
