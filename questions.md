@@ -32,7 +32,7 @@
 
 8. **How many customers are younger than 20?**  
    This helps us understand how many young people are shopping with us.
-   [VIEW IMAGE]()
+   [VIEW IMAGE](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/c8ec96cc3fa316c73c18b230bd8d62a2c757da53/total%20cust%20below%20age%2018.png)
 9. **How much do different age groups spend?**  
   Which age groups are spending the most money.
    [VIEW IMAGE]()
