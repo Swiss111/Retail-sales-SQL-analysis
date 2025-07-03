@@ -28,7 +28,7 @@
 
 7. **How many of our customers are 20 years old or older?**  
    This shows how many  customers are 20 and above.
-   [VIEW IMAGE]()
+   [VIEW IMAGE](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/2bfacbe6f46d7bd2eda4dfc9fb65b0a51dc0f9cc/total%20cust%20by%20age.png)
 
 8. **How many customers are younger than 20?**  
    This helps us understand how many young people are shopping with us.
