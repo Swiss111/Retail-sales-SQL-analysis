@@ -35,7 +35,7 @@
    [VIEW IMAGE](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/c8ec96cc3fa316c73c18b230bd8d62a2c757da53/total%20cust%20below%20age%2018.png)
 9. **How much do different age groups spend?**  
   Which age groups are spending the most money.
-   [VIEW IMAGE]()
+   [VIEW IMAGE](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/f127444087b2ea8b86655d6c3b0d6727853e137a/total%20amount%20per%20age.png)
 10. **How much of each product type are we selling, and how much do they bring in?**  
     This tells us both the number of items sold and the money made from each product category.
    [VIEW IMAGE]()
