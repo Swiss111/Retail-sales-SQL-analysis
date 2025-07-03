@@ -41,9 +41,9 @@
    [VIEW IMAGE](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/29be27652b10e557f7be0486b3fa90b686e852aa/product%20type%20vs%20order%20vs%20amount.png)
 11. **Total amount each year?**  
     This show total yearly sales to understand our overall performance.
-   [VIEW IMAGE]()
+   [VIEW IMAGE](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/aae2d0215c125aad04dfa4461972bc71e69f6551/total%20amount%20each%20year.png)
 12. **Total customer by gender for each product category.
-
+    [VIEW IMAGE]()
 ---
 
 ## 🧠 Insights, Queries & Data
