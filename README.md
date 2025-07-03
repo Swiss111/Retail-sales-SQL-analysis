@@ -12,7 +12,7 @@ This project contains SQL queries for analyzing a retail sales dataset using Pos
 - Sales quantity breakdowns
 
 Files Included
-- [`queries.sql`](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/0cc95268b8e056d9e8fe95e1802d9bcfc4241f3f/quaries.sql) – All SQL queries grouped by business questions
+- [`queries.sql`](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/0e2be6411eb13ad70c183e1516ff6642321dc7dd/quaries.sql) – All SQL queries grouped by business questions
 - [`questions.md`](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/4ae6caacf9bbc414e0900c1dbe55d087ea34c8a0/questions.md) – Business questions for data analysis
 - [`retail_sales.csv`](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 
