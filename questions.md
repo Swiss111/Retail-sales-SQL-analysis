@@ -16,7 +16,7 @@
 
 4. **How many customers did we get each year?**  
    This tells us whether our customer base is growing or shrinking over the years.
-   [VIEW IMAGE]()
+   [VIEW IMAGE](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/0baebadd7f2fa4805e99d2ca7d1663c1bce56f9f/no%20of%20customer%20each%20year.png)
 
 5. **How much money did male and female customers spend?**  
     how much each gender is spending overall.
