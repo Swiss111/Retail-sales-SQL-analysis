@@ -12,7 +12,7 @@
 
 3. **How many purchases did male customers make?**  
    This shows how active male customers are when it comes to buying.
-   [VIEW IMAGE]()
+   [VIEW IMAGE](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/617fdc82fa4e5ebff2855728109524ffecbb9361/no%20of%20prod%20puch%20by%20male.png)
 
 4. **How many customers did we get each year?**  
    This tells us whether our customer base is growing or shrinking over the years.
