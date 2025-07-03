@@ -24,7 +24,7 @@
 
 6. **How many people bought from each product category?**  
    This helps us see which types of products are most popular with customers.
-   [VIEW IMAGE]()
+   [VIEW IMAGE](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/6d980045c1378ee3159cd612fc928250c47bebc7/total%20cust%20per%20product.png)
 
 7. **How many of our customers are 20 years old or older?**  
    This shows how many  customers are 20 and above.
