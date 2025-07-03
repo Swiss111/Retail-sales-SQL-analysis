@@ -42,7 +42,7 @@
 11. **Total amount each year?**  
     This show total yearly sales to understand our overall performance.
    [VIEW RESULT](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/aae2d0215c125aad04dfa4461972bc71e69f6551/total%20amount%20each%20year.png)
-12. **Total customer by gender for each product category.
+12. **Total customer by gender for each product category.**
     [VIEW RESULT](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/91815aeeaeed683bc997f0aa5e45d0956622cb57/gender%20vs%20product%20cat%20vs%20total%20customer.png)
 ---
 
