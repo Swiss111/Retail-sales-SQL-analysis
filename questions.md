@@ -8,7 +8,7 @@
 
 2. **How many of them are male or female?**  
    This shows the gender breakdown of our customers — are more men or women shopping with us?
-   [VIEW IMAGE]()
+   [VIEW IMAGE](https://github.com/Swiss111/Retail-sales-SQL-analysis/blob/55d78d0d131ef2c04ebfe1a1ce2ff8ab7959fed0/No%20of%20male%20and%20female.png)
 
 3. **How many purchases did male customers make?**  
    This shows how active male customers are when it comes to buying.
